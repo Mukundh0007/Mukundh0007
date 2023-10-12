@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukundh J</h1>
 <h3 align="center">A passionate AI/ML and Data Science enthusiast </h3>
+![image](https://github.com/Mukundh0007/Mukundh0007/assets/93877999/85edbde8-7c92-4d99-b8d8-c4368dcdb478)
 
 # 💫 About Me:
 📚 Lifelong Learner \
