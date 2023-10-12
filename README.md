@@ -31,9 +31,9 @@ I have a passion for pushing the limits of data science, artificial intelligence
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatihsen20&theme=discord_old_blurple)
 
-<!-- ![Fatih GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihsen20&include_all_commits=true&count_private=true&show_icons=true)
+<!-- ![Mukundh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukundh0007&include_all_commits=true&count_private=true&show_icons=true)
  -->
-<!-- [![Fatih github stats](https://github-readme-stats.vercel.app/api?username=fatihsen20&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/fatihsen20/github-readme-stats) -->
+<!-- [![Mukundh's github stats](https://github-readme-stats.vercel.app/api?username=Mukundh0007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Mukundh0007/github-readme-stats) -->
 
 ---
 
