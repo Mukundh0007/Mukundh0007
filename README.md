@@ -29,7 +29,7 @@ I have a passion for pushing the limits of data science, artificial intelligence
 
 <h3>GitHub Stats 📊</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatihsen20&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukundh0007&theme=discord_old_blurple)
 
 <!-- ![Mukundh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukundh0007&include_all_commits=true&count_private=true&show_icons=true)
  -->
