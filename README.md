@@ -26,7 +26,7 @@ I have a passion for pushing the limits of data science, artificial intelligence
 
 
 
-<h3>GitHub Stats 📊</h3>
+## GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukundh0007&theme=discord_old_blurple)
 
@@ -36,7 +36,7 @@ I have a passion for pushing the limits of data science, artificial intelligence
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukundh0007&" alt="Mukundh0007" /></p>
 
-<h3>Snake Game 🐍</h3>
+#### Snake Game 🐍
 
 <picture>
   <source
