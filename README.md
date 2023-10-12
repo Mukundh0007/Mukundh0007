@@ -4,6 +4,7 @@
 # 💫 About Me:
 👨‍💻 AI & ML Enthusiast \
 📚 Lifelong Learner \
+⚽️ Footballer \
 🤖 Building a Smarter Tomorrow
 
 # 🌟 What Fires Me Up?
