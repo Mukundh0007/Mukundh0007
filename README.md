@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 📚 Lifelong Learner \
-⚽️ Footballer \
+⚽️ Athlete \
 🤖 Working towards Building a Smarter Tomorrow
 
 I'm passionate about pushing the boundaries of Data Science, AI and ML, and I'm on a quest to unlock the infinite potential of data-driven decision-making. From building intelligent chatbots to training deep neural networks, I'm exploring it all and turning algorithms into powerful tools for the future. I'm always excited to connect with like-minded individuals, share insights, and explore new possibilities. Feel free to drop me a message, open an issue, or send a pull request. I'm eager to learn from others and share my knowledge. Together, we can shape a brighter, smarter world through AI and Machine Learning.
