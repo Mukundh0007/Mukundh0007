@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mukundh J</h1>
 <h3 align="center">A passionate AI/ML and Data Science enthusiast </h3>
-<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="500px" align="center" alt="Computador iuriCode">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="500px" alt="Computador iuriCode">
+</p>
 
 # 💫 About Me:
 📚 Lifelong Learner \
