@@ -34,7 +34,7 @@ I have a passion for pushing the limits of data science, artificial intelligence
  -->
 <!-- [![Mukundh's github stats](https://github-readme-stats.vercel.app/api?username=Mukundh0007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Mukundh0007/github-readme-stats) -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukundh0007&" alt="Mukundh0007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukundh0007&" alt="Mukundh0007" /></p>
 
 <h3>Snake Game 🐍</h3>
 
