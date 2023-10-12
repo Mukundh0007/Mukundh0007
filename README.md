@@ -2,7 +2,12 @@
 <h3 align="center">An enthusiastic AI/ML developer from India</h3>
 
 # 💫 About Me:
-I'm currently diving deep into the world of AI and machine learning
+👨‍💻 AI & ML Enthusiast
+📚 Lifelong Learner
+🤖 Building a Smarter Tomorrow
+
+# 🌟 What Fires Me Up?
+I'm passionate about pushing the boundaries of AI and ML, and I'm on a quest to unlock the infinite potential of data-driven decision-making. From building intelligent chatbots to training deep neural networks, I'm exploring it all and turning algorithms into powerful tools for the future.
 
 
 ## Connect with me:
