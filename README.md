@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-📚 Lifelong Learner \
+📚 Perpetual Student \
 ⚽️ Athlete \
 🤖 Working towards Building a Smarter Tomorrow
 
