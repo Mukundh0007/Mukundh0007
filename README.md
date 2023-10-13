@@ -26,16 +26,6 @@ I have a passion for pushing the limits of data science, artificial intelligence
 
 
 
-## GitHub Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukundh0007&theme=discord_old_blurple)
-
-<!-- ![Mukundh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukundh0007&include_all_commits=true&count_private=true&show_icons=true)
- -->
-<!-- [![Mukundh's github stats](https://github-readme-stats.vercel.app/api?username=Mukundh0007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Mukundh0007/github-readme-stats) -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukundh0007&" alt="Mukundh0007" /></p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mukundh0007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mukundh's github stats" /></a> | <a href="https://github.com/Mukundh0007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukundh0007&layout=compact&theme=buefy&hide_border=true" /></a>
 ## Snake Game 🐍
 
 <picture>
