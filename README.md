@@ -14,8 +14,8 @@ I have a passion for pushing the limits of data science, artificial intelligence
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/mukundhjayapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundh j" height="30" width="40" /></a>
-<a href="https://kaggle.com/mukundh j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mukundh j" height="30" width="40" /></a>
 <a href="https://instagram.com/3ukundh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3ukundh" height="30" width="40" /></a>
+<a href="https://kaggle.com/mukundh j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mukundh j" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mukundh007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mukundh007" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mukundh173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukundh173" height="30" width="40" /></a>
 </p>
