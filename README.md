@@ -6,10 +6,8 @@
 
 # 💫 About Me:
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1000&height=100&lines=Computer+Science+Student,;A+passionate+AI/ML+and+Data+Science+enthusiast..&hearts;++;Perpetual+Learner+and+Researcher,;Working+towards+Building+a+Smarter+Tomorrow+!;Athlete..<3,;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1000&height=100&lines=Computer+Science+Student,;A+passionate+AI/ML+and+Data+Science+enthusiast..&hearts;++;Perpetual+Learner+and+Researcher,;Athlete..<3,;Working+towards+Building+a+Smarter+Tomorrow!;🤖"></a>
 </p>
-
-🤖 Working towards Building a Smarter Tomorrow
 
 I have a passion for pushing the limits of data science, artificial intelligence, and machine learning, and I'm on a mission to realise the limitless potential of data-driven decision-making. I'm experimenting with everything and making algorithms into potent tools for the future, from training deep neural networks to creating intelligent chatbots. I'm constantly excited to meet like-minded people, exchange ideas, and consider new alternatives. Send me a note, create an issue, or submit a pull request at any time. I'm eager to pass on my knowledge and learn from others. Together, we can shape a brighter, smarter world through AI and Machine Learning.
 
