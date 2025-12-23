@@ -18,6 +18,10 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 <a href="https://www.codechef.com/users/mukundh007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mukundh007" height="30" width="40" /></a>
 </p>
 
+## Publications 
+1. [Impact of Big Data Analytics on E-Commerce for Business Application: A Review and Analysis of Its Essence in a Competitive World](https://www.scitepress.org/Papers/2024/128811/128811.pdf)
+2. [Enhanced Corrosion Detection Using YOLO-Based Deep Learning Models
+](https://ieeexplore.ieee.org/document/10881182)
 
 ## My Skillset:
 <p align="left"> 
