@@ -19,9 +19,9 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 </p>
 
 ## Publications
-1. SCITEPRESS - [Enhanced Corrosion Detection Using YOLO-Based Deep Learning Models
+1. IEEE Explore - [Enhanced Corrosion Detection Using YOLO-Based Deep Learning Models
 ](https://ieeexplore.ieee.org/document/10881182)
-2. IEEE Explore - [Impact of Big Data Analytics on E-Commerce for Business Application: A Review and Analysis of Its Essence in a Competitive World](https://www.scitepress.org/Papers/2024/128811/128811.pdf)
+2. SCITEPRESS - [Impact of Big Data Analytics on E-Commerce for Business Application: A Review and Analysis of Its Essence in a Competitive World](https://www.scitepress.org/Papers/2024/128811/128811.pdf)
 
 ## My Skillset:
 <p align="left"> 
