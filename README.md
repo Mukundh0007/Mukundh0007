@@ -33,7 +33,7 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 <div align=center><img width="439" alt="image" src="https://github.com/user-attachments/assets/d2187912-520c-4cac-ab05-db631fce2555"> </div>
 
 ### Automatic Code Modifications using OpenAI:
-https://github.com/Mukundh0007/PJT2/blob/fc0bd77177853dc842c507c3f99d55fc82154687/workflow.png
+![](https://github.com/Mukundh0007/PJT2/blob/fc0bd77177853dc842c507c3f99d55fc82154687/workflow.png)
 ##### Sample demo (Actual demo is under NDA):
 ![ezgif-2802d32a7544020a](https://github.com/user-attachments/assets/774c1366-3e99-4a10-9dff-97206b963d80)
 
