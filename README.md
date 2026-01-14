@@ -28,7 +28,7 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 ![Object Tracking](objecttracking.gif)
 
 ### Automatic Code Modifications using OpenAI:
-https://github.com/user-attachments/assets/d6f9b849-93c8-4e3e-8faf-ac04c5df35dc
+![ezgif-2802d32a7544020a](https://github.com/user-attachments/assets/774c1366-3e99-4a10-9dff-97206b963d80)
 
 #### Visual RAG :
 ![](https://github.com/Mukundh0007/visual-financial-rag/blob/4458de9ec5ede01c6c12b3c3adcb56ab457fa280/demo.gif)
