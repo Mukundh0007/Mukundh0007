@@ -23,6 +23,17 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 ](https://ieeexplore.ieee.org/document/10881182)
 2. SCITEPRESS - [Impact of Big Data Analytics on E-Commerce for Business Application: A Review and Analysis of Its Essence in a Competitive World](https://www.scitepress.org/Papers/2024/128811/128811.pdf)
 
+## Some Works
+#### Object Tracking for SOP adherence :
+![Object Tracking](objecttracking.gif)
+
+### Automatic Code Modifications using OpenAI:
+https://github.com/user-attachments/assets/d6f9b849-93c8-4e3e-8faf-ac04c5df35dc
+
+#### Visual RAG :
+![](https://github.com/Mukundh0007/visual-financial-rag/blob/4458de9ec5ede01c6c12b3c3adcb56ab457fa280/demo.gif)
+
+
 ## My Skillset:
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
