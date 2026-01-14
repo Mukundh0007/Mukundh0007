@@ -26,6 +26,8 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 ## Some Works
 #### Object Tracking for SOP adherence :
 ![Object Tracking](objecttracking.gif)
+### License plate recognition using YOLO:
+<div align=center><img width="439" alt="image" src="https://github.com/user-attachments/assets/d2187912-520c-4cac-ab05-db631fce2555"> </div>
 
 ### Automatic Code Modifications using OpenAI:
 ##### Sample demo (Actual demo is under NDA):
