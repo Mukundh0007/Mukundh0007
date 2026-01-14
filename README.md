@@ -24,6 +24,9 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 2. SCITEPRESS - [Impact of Big Data Analytics on E-Commerce for Business Application: A Review and Analysis of Its Essence in a Competitive World](https://www.scitepress.org/Papers/2024/128811/128811.pdf)
 
 ## Some Works
+#### Visual RAG for easy interaction with 10-k filings:
+![](https://github.com/Mukundh0007/visual-financial-rag/blob/4458de9ec5ede01c6c12b3c3adcb56ab457fa280/demo.gif)
+
 #### Object Tracking for SOP adherence :
 ![Object Tracking](objecttracking.gif)
 ### License plate recognition using YOLO:
@@ -33,8 +36,6 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 ##### Sample demo (Actual demo is under NDA):
 ![ezgif-2802d32a7544020a](https://github.com/user-attachments/assets/774c1366-3e99-4a10-9dff-97206b963d80)
 
-#### Visual RAG :
-![](https://github.com/Mukundh0007/visual-financial-rag/blob/4458de9ec5ede01c6c12b3c3adcb56ab457fa280/demo.gif)
 
 
 ## My Skillset:
