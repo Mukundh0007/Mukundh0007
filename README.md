@@ -9,20 +9,6 @@
 </p>
 I'm driven to push the boundaries of data science, artificial intelligence, and machine learning, and I'm on a quest to unlock the limitless potential of data-driven decision-making. I'm experimenting with everything and making algorithms into potent tools for the future, from training deep neural networks to creating intelligent chatbots. I'm always eager to connect with like-minded individuals, have intellectual conversations, and consider new alternatives. Send me a note, create an issue, or submit a pull request at any time. I'm eager to pass on my knowledge and learn from others. Together, we can shape a brighter, smarter world through AI and Machine Learning.
 
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/mukundhjayapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundh j" height="30" width="40" /></a>
-<a href="https://instagram.com/3ukundh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3ukundh" height="30" width="40" /></a>
-<a href="https://kaggle.com/mukundhj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mukundh j" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mukundh173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukundh173" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mukundh007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mukundh007" height="30" width="40" /></a>
-</p>
-
-## Publications
-1. IEEE Explore - [Enhanced Corrosion Detection Using YOLO-Based Deep Learning Models
-](https://ieeexplore.ieee.org/document/10881182)
-2. SCITEPRESS - [Impact of Big Data Analytics on E-Commerce for Business Application: A Review and Analysis of Its Essence in a Competitive World](https://www.scitepress.org/Papers/2024/128811/128811.pdf)
-
 ## Some Projects
 #### Visual RAG for easy interaction with 10-k filings:
 ![](https://github.com/Mukundh0007/visual-financial-rag/blob/4458de9ec5ede01c6c12b3c3adcb56ab457fa280/demo.gif)
@@ -44,8 +30,20 @@ Leveraging LLMs for Real-Time Software and Code Modifications : The objective is
 ##### Sample demo (Actual demo is under NDA):
 ![ezgif-2802d32a7544020a](https://github.com/user-attachments/assets/774c1366-3e99-4a10-9dff-97206b963d80)
 
+## Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/mukundhjayapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundh j" height="30" width="40" /></a>
+<a href="https://instagram.com/3ukundh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3ukundh" height="30" width="40" /></a>
+<a href="https://kaggle.com/mukundhj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mukundh j" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mukundh173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukundh173" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mukundh007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mukundh007" height="30" width="40" /></a>
+</p>
 
-
+## Publications
+1. IEEE Explore - [Enhanced Corrosion Detection Using YOLO-Based Deep Learning Models
+](https://ieeexplore.ieee.org/document/10881182)
+2. SCITEPRESS - [Impact of Big Data Analytics on E-Commerce for Business Application: A Review and Analysis of Its Essence in a Competitive World](https://www.scitepress.org/Papers/2024/128811/128811.pdf)
+   
 ## My Skillset:
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
