@@ -33,7 +33,9 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 <div align=center><img width="439" alt="image" src="https://github.com/user-attachments/assets/d2187912-520c-4cac-ab05-db631fce2555"> </div>
 
 ### Automatic Code Modifications using OpenAI:
-![](<img width="828" height="348" alt="image" src="https://github.com/user-attachments/assets/f4621b00-76e4-4f46-aad1-b54b421e4db2" />)
+<img width="828" height="348" alt="Screenshot 2026-01-14 at 8 03 27 PM" src="https://github.com/user-attachments/assets/7c3a0c14-6927-4ba2-8f3a-42c735b53b8a" />
+
+
 ##### Sample demo (Actual demo is under NDA):
 ![ezgif-2802d32a7544020a](https://github.com/user-attachments/assets/774c1366-3e99-4a10-9dff-97206b963d80)
 
