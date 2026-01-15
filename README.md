@@ -16,19 +16,24 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 #### Object Tracking and Segmentation for SOP adherence :
 ![Object Tracking](objecttracking.gif)
 <img width="500" height="516" alt="image" src="https://github.com/user-attachments/assets/2dda1a8f-86ff-46f9-8460-2b0f8270ec33" />
-
-### License plate recognition using YOLO:
-<div align=center><img width="439" alt="image" src="https://github.com/user-attachments/assets/d2187912-520c-4cac-ab05-db631fce2555"> </div>
-
 ### Automatic Code Modifications (DevOps) using LLMs:
-Leveraging LLMs for Real-Time Software and Code Modifications : The objective is to diminish reliance on technical teams and expedite deployment cycles. By employing LLMs with cloud computing platforms (Microsoft Azure) and DevOps pipelines, non-technical users can execute changes using natural language. It features a user-friendly interface (Streamlit) to facilitate seamless interaction and integrates industrial Internet of Things (IoT) devices (Raspberry Pi) for real-time monitoring. 
+Leveraging LLMs for Real-Time Software and Code Modifications : The objective is to diminish reliance on technical teams for minor UI changes and expedite deployment cycles. By employing LLMs with cloud computing platforms (Microsoft Azure) and DevOps pipelines, non-technical users can execute changes using natural language. It features a user-friendly interface to facilitate seamless interaction and integrates industrial IoT for real-time monitoring. 
 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/780d4117-ab8c-4810-94ef-a44064790c3b" />
 <img width="500" alt="Screenshot 2026-01-14 at 8 03 27 PM" src="https://github.com/user-attachments/assets/7c3a0c14-6927-4ba2-8f3a-42c735b53b8a" />
 
 
-##### Sample demo (Actual demo is under NDA):
+##### Sample demo:
 ![ezgif-2802d32a7544020a](https://github.com/user-attachments/assets/774c1366-3e99-4a10-9dff-97206b963d80)
+
+#### Live Demo (Blurred, since under NDA):
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70d536f7-421f-4202-b5fa-38f290cbb429"
+       width="700" />
+</p>
+
+### License plate recognition using YOLO:
+<div align=center><img width="439" alt="image" src="https://github.com/user-attachments/assets/d2187912-520c-4cac-ab05-db631fce2555"> </div>
 
 ## Connect with me:
 <p align="left">
