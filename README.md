@@ -10,14 +10,15 @@
 I'm driven to push the boundaries of data science, artificial intelligence, and machine learning, and I'm on a quest to unlock the limitless potential of data-driven decision-making. I'm experimenting with everything and making algorithms into potent tools for the future, from training deep neural networks to creating intelligent chatbots. I'm always eager to connect with like-minded individuals, have intellectual conversations, and consider new alternatives. Send me a note, create an issue, or submit a pull request at any time. I'm eager to pass on my knowledge and learn from others. Together, we can shape a brighter, smarter world through AI and Machine Learning.
 
 ## Some Projects
-#### Visual RAG for easy interaction with 10-k filings:
+### Visual RAG for easy interaction with 10-k filings:
 ![](https://github.com/Mukundh0007/visual-financial-rag/blob/4458de9ec5ede01c6c12b3c3adcb56ab457fa280/demo.gif)
 
-#### Object Tracking and Segmentation for SOP adherence :
+### Object Tracking and Segmentation for SOP adherence :
 <p align="center">
 <img width="500" height="516" alt="image" src="objecttracking.gif" />
 <img width="500" height="516" alt="image" src="https://github.com/user-attachments/assets/2dda1a8f-86ff-46f9-8460-2b0f8270ec33" />
 </p>
+
 ### Automatic Code Modifications (DevOps) using LLMs:
 Leveraging LLMs for Real-Time Software and Code Modifications : The objective is to diminish reliance on technical teams for minor UI changes and expedite deployment cycles. By employing LLMs with cloud computing platforms (Microsoft Azure) and DevOps pipelines, non-technical users can execute changes using natural language. It features a user-friendly interface to facilitate seamless interaction and integrates industrial IoT for real-time monitoring. 
 
