@@ -20,7 +20,7 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 Leveraging LLMs for Real-Time Software and Code Modifications : The objective is to diminish reliance on technical teams for minor UI changes and expedite deployment cycles. By employing LLMs with cloud computing platforms (Microsoft Azure) and DevOps pipelines, non-technical users can execute changes using natural language. It features a user-friendly interface to facilitate seamless interaction and integrates industrial IoT for real-time monitoring. 
 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/780d4117-ab8c-4810-94ef-a44064790c3b" />
-<img width="500" alt="Screenshot 2026-01-14 at 8 03 27 PM" src="https://github.com/user-attachments/assets/7c3a0c14-6927-4ba2-8f3a-42c735b53b8a" />
+<img width="450" alt="Screenshot 2026-01-14 at 8 03 27 PM" src="https://github.com/user-attachments/assets/7c3a0c14-6927-4ba2-8f3a-42c735b53b8a" />
 
 
 ##### Sample demo:
