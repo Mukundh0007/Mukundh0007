@@ -11,7 +11,9 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 
 ## Some Projects
 ### Visual RAG for easy interaction with 10-k filings:
-![](https://github.com/Mukundh0007/visual-financial-rag/blob/4458de9ec5ede01c6c12b3c3adcb56ab457fa280/demo.gif)
+<p align="center">
+  <img width="800" height="516" alt="image" src="https://github.com/Mukundh0007/visual-financial-rag/blob/4458de9ec5ede01c6c12b3c3adcb56ab457fa280/demo.gif" />
+</p>
 
 ### Object Tracking and Segmentation for SOP adherence :
 <p align="center">
