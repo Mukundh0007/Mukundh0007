@@ -35,8 +35,8 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 <div align=center><img width="439" alt="image" src="https://github.com/user-attachments/assets/d2187912-520c-4cac-ab05-db631fce2555"> </div>
 
 ### Automatic Code Modifications (DevOps) using LLMs:
-<img width="944" height="555" alt="image" src="https://github.com/user-attachments/assets/780d4117-ab8c-4810-94ef-a44064790c3b" />
-<img width="828" height="348" alt="Screenshot 2026-01-14 at 8 03 27 PM" src="https://github.com/user-attachments/assets/7c3a0c14-6927-4ba2-8f3a-42c735b53b8a" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/780d4117-ab8c-4810-94ef-a44064790c3b" />
+<img width="500" alt="Screenshot 2026-01-14 at 8 03 27 PM" src="https://github.com/user-attachments/assets/7c3a0c14-6927-4ba2-8f3a-42c735b53b8a" />
 
 
 ##### Sample demo (Actual demo is under NDA):
