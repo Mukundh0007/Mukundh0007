@@ -27,8 +27,10 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 #### Visual RAG for easy interaction with 10-k filings:
 ![](https://github.com/Mukundh0007/visual-financial-rag/blob/4458de9ec5ede01c6c12b3c3adcb56ab457fa280/demo.gif)
 
-#### Object Tracking for SOP adherence :
+#### Object Tracking and Segmentation for SOP adherence :
 ![Object Tracking](objecttracking.gif)
+<img width="500" height="516" alt="image" src="https://github.com/user-attachments/assets/2dda1a8f-86ff-46f9-8460-2b0f8270ec33" />
+
 ### License plate recognition using YOLO:
 <div align=center><img width="439" alt="image" src="https://github.com/user-attachments/assets/d2187912-520c-4cac-ab05-db631fce2555"> </div>
 
