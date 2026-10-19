@@ -16,10 +16,10 @@ I'm driven to push the boundaries of data science, artificial intelligence, and 
 </p>
 
 ### Object Tracking and Segmentation for SOP adherence :
-<p align="center">
+<!-- <p align="center">
 <img width="500" height="516" alt="image" src="objecttracking.gif" />
 <img width="500" height="516" alt="image" src="https://github.com/user-attachments/assets/2dda1a8f-86ff-46f9-8460-2b0f8270ec33" />
-</p>
+</p> -->
 
 ### Automatic Code Modifications (DevOps) using LLMs:
 Leveraging LLMs for Real-Time Software and Code Modifications : The objective is to diminish reliance on technical teams for minor UI changes and expedite deployment cycles. By employing LLMs with cloud computing platforms (Microsoft Azure) and DevOps pipelines, non-technical users can execute changes using natural language. It features a user-friendly interface to facilitate seamless interaction and integrates industrial IoT for real-time monitoring. 
